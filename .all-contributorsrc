@@ -1,0 +1,72 @@
+{
+  "projectName": "jb-i-r-d-test",
+  "projectOwner": "ChrisCarini",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "ChrisCarini",
+      "name": "Chris Carini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6374067?v=4",
+      "profile": "https://github.com/ChrisCarini",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "question",
+        "review"
+      ]
+    },
+    {
+      "login": "baron1405",
+      "name": "Baron Roberts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/989635?v=4",
+      "profile": "https://www.cthing.com",
+      "contributions": [
+        "code",
+        "ideas",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "vicky17d",
+      "name": "vicky17d",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1669024?v=4",
+      "profile": "https://github.com/vicky17d",
+      "contributions": [
+        "code",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "opticyclic",
+      "name": "opticyclic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1222693?v=4",
+      "profile": "https://github.com/opticyclic",
+      "contributions": [
+        "content",
+        "example",
+        "ideas"
+      ]
+    },
+    {
+      "login": "gehbiszumeis",
+      "name": "gehbiszumeis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16896724?v=4",
+      "profile": "https://github.com/gehbiszumeis",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    }
+  ]
+}
